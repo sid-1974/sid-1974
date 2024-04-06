@@ -71,7 +71,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sid-1974/sid-1974/output/snake.svg" alt="Snake animation" />
+
 
 
 
