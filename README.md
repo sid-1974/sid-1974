@@ -1,6 +1,12 @@
 <h3 align="left">Hi 👋! I am  SID😎,  I'm a Frontend Developer from Karnataka.</h3>
 
 ###
+<br clear="both">![841aeb9f113999616d097b414c539dfd](https://github.com/sid-1974/sid-1974/assets/147545200/2de0bdcd-eee2-4521-86f7-4b980af3f684)
+
+
+
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sid-1974&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -40,7 +46,7 @@
 
 ###
 
-<img align="right" height="200" src=""  />
+
 
 ###
 
