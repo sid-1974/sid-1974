@@ -67,9 +67,3 @@
 
 ###
 
-<br clear="both">![841aeb9f113999616d097b414c539dfd](https://github.com/sid-1974/sid-1974/assets/147545200/2de0bdcd-eee2-4521-86f7-4b980af3f684)
-
-
-
-
-###
