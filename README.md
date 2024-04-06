@@ -2,14 +2,14 @@
 
 ###
 ![841aeb9f113999616d097b414c539dfd](https://github.com/sid-1974/sid-1974/assets/147545200/b04a4cdc-d0cf-4a0f-be6a-e98e37fbee4c)
-
-
-
-
-
-
-
 ![images](https://github.com/sid-1974/sid-1974/assets/147545200/081fe32d-0267-4d86-8e28-340a864bcb8c)
+
+
+
+
+
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sid-1974&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
