@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am  SID😎,  I'm a Frontend Developer from Karnataka.</h2>
+<h2 align="left">Hi 👋! I am  SID😎,  I'm a Full Stack Developer from Karnataka.</h2>
 <h4>https://sidproto.netlify.app/ visit my portfolio.</h4>
 <h4>sidgithub1974@gmail.com -- Contact here.</h4>
 
